@@ -8,12 +8,17 @@ contributor:
     deathdate: 1954
     gutenberg_agent_id: '33413'
     url: http://www.gutenberg.org/2009/agents/33413
+covers:
+- cover_type: archival
+  image_path: 67803-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Schneider, E. E.
     gutenberg_agent_id: '54468'
     url: http://www.gutenberg.org/2009/agents/54468
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67803#A-list-of-Philippine-Baptismal-Names
 gutenberg_issued: '2022-04-09'
 identifiers:
   gutenberg: '67803'
